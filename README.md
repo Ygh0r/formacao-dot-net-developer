@@ -1,4 +1,28 @@
 # Formação .NET Developer
 Esse repositório tem como objetivo armazenar os conhecimentos adquiridos durante a formação de .NET Developer, incluindo projetos práticos, exercícios e recursos de estudo.
 
+## Sobre o .NET
+.NET é uma plataforma de desenvolvimento de software criada pela Microsoft que permite a criação de aplicativos para diferentes sistemas operacionais, como Windows, macOS e Linux. Ela suporta várias linguagens de programação, incluindo C#, F# e Visual Basic.
+
+Ele é capaz de criar uma ampla variedade de aplicativos, desde aplicativos web e móveis até serviços em nuvem e aplicativos de desktop. A plataforma é conhecida por sua robustez, segurança e desempenho.
+
+Alguns exemplos:
+
+- Desktop: Aplicativos Windows Forms, WPF (Windows Presentation Foundation)
+- Web: ASP.NET
+- Cloud: ASP.NET Core
+- Mobile: Xamarin
+- Jogos: Unity (utiliza C# como linguagem de script)
+- IoT: ARM32, ARM64
+- Inteligência Artificial: ML.NET, NET For Apache Spark
+
+Suas ferramentas são o visual Studio e o Visual Studio Code, que oferecem um ambiente de desenvolvimento integrado (IDE) completo para criar, depurar e implantar aplicativos .NET.
+
+.NET 5+ é crossplataform
+.NET Framework é apenas para Windows
+
+## Diferenças entre .NET Framework e .NET Core
+.NET Framework: Legado
+.NET Core: Moderno, multiplataforma, atual
+
 

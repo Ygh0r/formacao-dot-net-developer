@@ -25,4 +25,12 @@ Suas ferramentas são o visual Studio e o Visual Studio Code, que oferecem um am
 .NET Framework: Legado
 .NET Core: Moderno, multiplataforma, atual
 
+## Linguagem de alto nível e baixo nível
 
+Linguagem de alto nível: Mais próxima da linguagem humana, fácil de entender e usar. Exemplo: Python, Java, C#
+
+Linguagem de baixo nível: Mais próxima da linguagem de máquina, difícil de entender e usar. Exemplo: Assembly, C
+
+# Compilador
+
+Converte uma linguagem de alto nível em uma linguagem de baixo nível.

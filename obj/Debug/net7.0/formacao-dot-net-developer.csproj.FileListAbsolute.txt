@@ -1,0 +1,15 @@
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.AssemblyInfo.cs
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.sourcelink.json
+D:\Arquivos\GitHub\formacao-dot-net-developer\bin\Debug\net7.0\formacao-dot-net-developer.exe
+D:\Arquivos\GitHub\formacao-dot-net-developer\bin\Debug\net7.0\formacao-dot-net-developer.deps.json
+D:\Arquivos\GitHub\formacao-dot-net-developer\bin\Debug\net7.0\formacao-dot-net-developer.runtimeconfig.json
+D:\Arquivos\GitHub\formacao-dot-net-developer\bin\Debug\net7.0\formacao-dot-net-developer.dll
+D:\Arquivos\GitHub\formacao-dot-net-developer\bin\Debug\net7.0\formacao-dot-net-developer.pdb
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.dll
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\refint\formacao-dot-net-developer.dll
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.pdb
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\formacao-dot-net-developer.genruntimeconfig.cache
+D:\Arquivos\GitHub\formacao-dot-net-developer\obj\Debug\net7.0\ref\formacao-dot-net-developer.dll

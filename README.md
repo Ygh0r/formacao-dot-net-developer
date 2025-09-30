@@ -45,3 +45,8 @@ JIT (Just In Time): Compila o código intermediário em linguagem de máquina no
 Traduz uma linguagem de alto nível em outra linguagem de alto nível.
 
 Exemplo: TypeScript para JavaScript
+
+# IDE
+
+IDE (Integrated Development Environment): Ambiente de Desenvolvimento Integrado
+Ferramenta que reúne várias funcionalidades para facilitar o desenvolvimento de software com autocomplete.

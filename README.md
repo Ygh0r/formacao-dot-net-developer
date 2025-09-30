@@ -31,6 +31,17 @@ Linguagem de alto nível: Mais próxima da linguagem humana, fácil de entender 
 
 Linguagem de baixo nível: Mais próxima da linguagem de máquina, difícil de entender e usar. Exemplo: Assembly, C
 
-# Compilador
+## Compilador
 
 Converte uma linguagem de alto nível em uma linguagem de baixo nível.
+
+Verifica erros de sintaxe e semântica.
+Gera um código intermediário, para faciliar na conversão para linguagem de máquina.
+
+JIT (Just In Time): Compila o código intermediário em linguagem de máquina no momento da execução.
+
+## Transpilador
+
+Traduz uma linguagem de alto nível em outra linguagem de alto nível.
+
+Exemplo: TypeScript para JavaScript

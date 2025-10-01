@@ -50,3 +50,31 @@ Exemplo: TypeScript para JavaScript
 
 IDE (Integrated Development Environment): Ambiente de Desenvolvimento Integrado
 Ferramenta que reúne várias funcionalidades para facilitar o desenvolvimento de software com autocomplete.
+
+Exemplos: Visual Studio, Visual Studio Code
+
+## Visual Studio vs Visual Studio
+
+Visual Studio: IDE completo, com várias funcionalidades, como designer de interface, depurador, gerenciador de pacotes, etc. Voltado para desenvolvimento em .NET e C++.
+
+Visual Studio Code: Editor de código leve, com suporte a várias linguagens de programação, através de extensões. Voltado para desenvolvimento web e outras linguagens.
+
+# Sintaxe
+
+Conjunto de regras da linguagem. Erros de sintaxe podem impedir a compilação do código.
+
+# Convenção
+
+Conjunto de regras e boas práticas para escrever código de forma consistente e legível. Exemplos: nomenclatura de variáveis, funções, classes, etc.
+Convenção fora do padrão não impede um código de ser compilado, mas pode dificultar a leitura e manutenção do código.
+
+# Camel Case
+
+CamelConvenção de nomenclatura onde a primeira letra da primeira palavra é minúscula e a primeira letra de cada palavra subsequente é maiúscula. Exemplo: minhaVariavel, minhaFuncao, MinhaClasse.
+
+# Pascal Case
+
+PascalCase: Convenção de nomenclatura onde a primeira letra de cada palavra é maiúscula. Exemplo: MinhaVariavel, MinhaFuncao, MinhaClasse.
+
+Por convenção, é recomendado o nome do arquivo ser igual o nome da classe.
+

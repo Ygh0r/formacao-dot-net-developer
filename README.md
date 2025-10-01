@@ -78,3 +78,13 @@ PascalCase: Convenção de nomenclatura onde a primeira letra de cada palavra é
 
 Por convenção, é recomendado o nome do arquivo ser igual o nome da classe.
 
+# Tipos de dados
+
+string: Texto
+int: Número inteiro
+float: Número decimal
+bool: Verdadeiro ou falso
+object: Objeto genérico
+long: Número inteiro grande
+double: Número decimal grande
+decimal: Número decimal com alta precisão

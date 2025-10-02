@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("formacao-dot-net-developer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e78c9a1d8d0ee33778ed05da328dce5f90163311")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce752cf0e9647f943c07e55cfdf67152163c1eb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("formacao-dot-net-developer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("formacao-dot-net-developer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

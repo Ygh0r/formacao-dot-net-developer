@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+debb1d47842c4bb890b09ab940a19a14dcd0b22a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce752cf0e9647f943c07e55cfdf67152163c1eb5")]
+>>>>>>> parent of 650f6bc (Criando uma solução)
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce752cf0e9647f943c07e55cfdf67152163c1eb5")]
 >>>>>>> parent of 650f6bc (Criando uma solução)
